@@ -1,5 +1,0 @@
-zsd
-
-kaggle-
-https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign/kernels
-
